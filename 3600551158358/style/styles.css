@@ -440,7 +440,6 @@ body {
   }
 
   #es-rc #es-rc-content .es-features {
-    aspect-ratio: 1300/532;
     align-items: flex-start;
     gap: unset;
     min-height: 300px;
